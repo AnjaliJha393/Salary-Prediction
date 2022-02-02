@@ -3,9 +3,9 @@
 
 #### STEPS INVOLVED:-
 1) EDA and Preprocessing
-2) Sampling perfomed
-3) Standard Scaling (Standardization)
+2) Sampling performed
+3) Standard Scaling on Training and testing data.
 2) Algo/methods for prediction:-
   a) Logistic Regresssion
-  b) Decision Tree 
+  b) Decision Tree Classifier
   
